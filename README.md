@@ -15,7 +15,6 @@ This is a todo app. You can take a note that what to do 💬
 
 👉 Deploy a React app with Heroku Hosting 🌐
 
-
 # EXAMPLE
 
 ![f2](https://user-images.githubusercontent.com/72499839/158249254-c09e029c-823e-4341-8b05-dd4aa0101650.png)
