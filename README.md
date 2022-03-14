@@ -23,6 +23,7 @@ This is a todo app. You can take a note that what to do 💬
 
 ![11](https://user-images.githubusercontent.com/72499839/117534675-2e196380-affb-11eb-83da-dcff18171d1a.png)
 
+![f2](https://user-images.githubusercontent.com/72499839/158249254-c09e029c-823e-4341-8b05-dd4aa0101650.png)
 
 
 
