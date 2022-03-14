@@ -7,6 +7,7 @@ This is a todo app. You can take a note that what to do ✅
 
  * <a href="https://dudu0.herokuapp.com/">To check out the live demo of this app</a></br> </br> 
 
+
 # ABOUT 
  
 👉 We used ReactJS, Redux, Sass, Bootstrap, Vite ⚛️
