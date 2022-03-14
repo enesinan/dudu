@@ -116,7 +116,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 MIT License
 
-Copyright (c) 2021 enesinan
+Copyright (c) 2022 enesinan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
