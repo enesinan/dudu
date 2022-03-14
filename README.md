@@ -20,7 +20,6 @@ This is a todo app. You can take a note that what to do 💬
 ![f2](https://user-images.githubusercontent.com/72499839/158249254-c09e029c-823e-4341-8b05-dd4aa0101650.png)
 
 
-
 # CONTRIBUTION
  
  Feel free to contribute by adding new templates to this project.
