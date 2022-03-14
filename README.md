@@ -15,7 +15,7 @@ This is a facebook messenger clone.You can comminicate to other at realtime 💬
  
 👉 We used ReactJS, Redux, Sass, Bootstrap, Vite, Heroku ⚛️
 
-👉 Build a React Messenger App 💻
+👉 Build a React Todo App 💻
 
 👉 Deploy a React app with Heroku Hosting 🌐
 
