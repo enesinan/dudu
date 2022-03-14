@@ -5,7 +5,7 @@ dudu
 
 
 # 🟡 dudu
-This is a facebook messenger clone.You can comminicate to other at realtime 💬
+This is a todo app.You can take a note that what to do 💬
 
 # ⚡ LIVE   
 
