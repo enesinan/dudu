@@ -13,7 +13,7 @@ This is a facebook messenger clone.You can comminicate to other at realtime 💬
 
 # ABOUT 
  
-👉 We used ReactJS, Redux, Sass, Bootstrap, Vite, Heroku ⚛️
+👉 We used ReactJS, Redux, Sass, Bootstrap, Vite ⚛️
 
 👉 Build a React Todo App 💻
 
