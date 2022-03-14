@@ -17,11 +17,7 @@ This is a facebook messenger clone.You can comminicate to other at realtime 💬
 
 👉 Build a React Messenger App 💻
 
-👉 Deploy a React app with Firebase Hosting 🌐
-
-👉 Server-less cloud functions to process each of the messages sent 🚀
-
-👉 Real-time database with Firebase’s Firestore 🔥
+👉 Deploy a React app with Heroku Hosting 🌐
 
 
 # EXAMPLE
